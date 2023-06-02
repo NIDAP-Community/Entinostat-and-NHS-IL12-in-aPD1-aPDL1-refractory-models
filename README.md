@@ -1,7 +1,7 @@
 # Entinostat-and-NHS-IL12-in-aPD1-aPDL1-refractory-models
 Entinostat and NHS-IL12 in aPD1/aPDL1 refractory models
 
-This is a repository for the code and results from this manuscript, originally tracked as project CCBR-1144.
+This is a repository for the code and results from this [manuscript](https://pubmed.ncbi.nlm.nih.gov/35764364/): Minnar CM, Chariou PL, Horn LA, Hicks KC, Palena C, Schlom J, Gameiro SR. Tumor-targeted interleukin-12 synergizes with entinostat to overcome PD-1/PD-L1 blockade-resistant tumors harboring MHC-I and APM deficiencies. J Immunother Cancer. 2022 Jun;10(6):e004561. doi: 10.1136/jitc-2022-004561.
 
 To reproduce these results, follow these steps:
 
